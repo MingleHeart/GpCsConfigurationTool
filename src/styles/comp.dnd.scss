@@ -1,0 +1,17 @@
+.dnd_co {
+  width: 200px;
+  min-height: 200px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+
+  .dnd_move_1 {
+    width: 100px;
+    height: 40px;
+    margin: 16px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #8f8f8f;
+    border-radius: 6px;
+    cursor: move;
+  }
+}
